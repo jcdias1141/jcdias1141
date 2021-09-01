@@ -1,10 +1,13 @@
-### Olá, eu sou João Claudio
+### Olá, 
+Meu nome é  João Claudio
 
 
 
-- 🔭  Trabalho com desenvolvimento web na parte front-end
-- 🌱 Estou estudando Javascript
-
+   Sou desenvolvedor Web e trabalho como desenvolvedor Front-End desde 2019. 💻<br><br>
+   Estou sempre aberto a novos desafios e sempre pronto para enfrentar as mudanças.
+   <br><br>
+   📍 Antonina - PR<br>
+   💻Desenvolverdor front-end na  <a href="https://uwex.com.br/"> Uwex</a>
  <div>
   <a href="https://github.com/jcdias1141">
   <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=jcdias1141&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
