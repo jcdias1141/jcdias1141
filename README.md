@@ -28,5 +28,5 @@ Meu nome é  João Claudio
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
- <p>Quantidade de visitas no meu perfil  desde: 01/09/2021</p>
-<p><img  src="https://profile-counter.glitch.me/jcdias1141/count.svg" /></p>
+<!--  <p>Quantidade de visitas no meu perfil  desde: 01/09/2021</p>
+<p><img  src="https://profile-counter.glitch.me/jcdias1141/count.svg" /></p> -->
