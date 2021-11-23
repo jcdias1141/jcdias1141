@@ -9,11 +9,7 @@ Meu nome é  João Claudio
    📍 Antonina - PR<br>
    💻Desenvolverdor front-end na  <a href="https://uwex.com.br/"> Uwex</a>
    
- <div>
-  <a href="https://github.com/jcdias1141">
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=jcdias1141&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcdias1141&layout=compact&langs_count=7&theme=dark"/>
- </div>
+
   
   <div   style="display: inline_block"><br>
   <img  alt="JC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
