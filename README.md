@@ -9,7 +9,7 @@ Meu nome é  João Claudio
    📍 Antonina - PR<br>
    💻Desenvolverdor front-end na  <a href="https://uwex.com.br/"> Uwex</a><br>
    
-    <a href="mailto:<SEUEMAIL>" alt="gmail" target="_blank">
+    <a href="mailto:<jcdias1141@gmail.com>" alt="gmail" target="_blank">
    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<jcdias1141@gmail.com>" />
    </a>
 
