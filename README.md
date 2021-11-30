@@ -10,7 +10,7 @@ Meu nome é  João Claudio
    💻Desenvolverdor front-end na  <a href="https://uwex.com.br/"> Uwex</a><br>
    
    <div>
-    <a href="mailto:jcdias1141@gmail.com" alt="gmail" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-         square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jcdias1141@gmail.com" /> </a>
+    <a href="mailto:jcdias1141@gmail.com" alt="gmail" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jcdias1141@gmail.com" /></a>
 </div>
   
   <div   style="display: inline_block"><br>
