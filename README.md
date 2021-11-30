@@ -9,10 +9,9 @@ Meu nome é  João Claudio
    📍 Antonina - PR<br>
    💻Desenvolverdor front-end na  <a href="https://uwex.com.br/"> Uwex</a><br>
    
-    <a href="mailto:<jcdias1141@gmail.com>" alt="gmail" target="_blank">
-   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<jcdias1141@gmail.com>" />
-   </a>
-
+   <div>
+    <a href="mailto:jcdias1141@gmail.com" alt="gmail" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-         square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jcdias1141@gmail.com" /> </a>
+</div>
   
   <div   style="display: inline_block"><br>
   <img  alt="JC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
