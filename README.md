@@ -7,7 +7,7 @@ Meu nome é  João Claudio
    Estou sempre aberto a novos desafios e sempre pronto para enfrentar novas mudanças.
    <br><br>
    📍 Antonina - PR<br>
-   💻Desenvolverdor front-end na  <a href="https://uwex.com.br/"> Uwex</a>
+   💻Desenvolverdor front-end na  <a href="https://uwex.com.br/"> Uwex</a><br>
    E-mail:  jcdias1141@gmail.com
 
   
