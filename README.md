@@ -8,7 +8,7 @@ Meu nome é  João Claudio
    <br><br>
    📍 Antonina - PR<br>
    💻Desenvolverdor front-end na  <a href="https://uwex.com.br/"> Uwex</a>
-   
+   E-mail:  jcdias1141@gmail.com
 
   
   <div   style="display: inline_block"><br>
